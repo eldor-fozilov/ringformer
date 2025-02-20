@@ -22,7 +22,7 @@ Transformers have achieved great success in effectively processing sequential da
         and show the effectiveness of our model on tasks such as translation and image classification.
 
 For more details, check our paper:  
-📄 **[RingFormer: Rethinking Recurrent Transformer with Adaptive Level Signals]()**  
+📄 **[RingFormer: Rethinking Recurrent Transformer with Adaptive Level Signals](https://arxiv.org/abs/2502.13181)**  
 
 
 
